@@ -128,6 +128,7 @@ app.use(cors({
 
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/cc69656d-335e-4ea9-8a78-159f071870c1)
 
 
 ---
