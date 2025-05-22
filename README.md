@@ -31,7 +31,7 @@ A full-stack app to manage personal todos, summarize them using **Cohere AI**, a
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/atharva-narkhede/todo-summary-assistant.git
+git clone https://github.com/Ash0508/Todo-summary-assistance.git
 cd todo-summary-assistant
 ```
 
@@ -134,5 +134,5 @@ app.use(cors({
 
 ## ✍️ Author
 
-* [Atharva Narkhede](https://github.com/atharva-narkhede)
+* [Ankush Singh](https://github.com/Ash0508)
 
